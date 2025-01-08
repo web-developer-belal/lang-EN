@@ -1,0 +1,14 @@
+{
+    "name": "zPlus/licensing",
+    "description": "Private licensing package for Laravel scripts.",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "zPlus\\Licensing\\": "src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=7.4"
+    }
+}
